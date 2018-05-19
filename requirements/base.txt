@@ -1,0 +1,4 @@
+Django==2.0.5
+Unipath==1.1
+Pillow==5.1.0
+psycopg2==2.7.4
